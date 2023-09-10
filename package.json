@@ -21,12 +21,10 @@
     "socket.io": "^4.7.2"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server1.js && node servera.js"
   },
   "name": "safe-space",
   "version": "1.0.0",
-  "main": "server1.js",
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
